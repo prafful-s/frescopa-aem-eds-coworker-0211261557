@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/amolinari/terna-magazine/language-masters/en:/",
+    "/content/amolinari/terna-magazine/language-masters/en/:/en/",
+    "/content/amolinari/terna-magazine/configuration:/.helix/config.json",
+    "/content/amolinari/terna-magazine/metadata:/metadata.json",
+    "/content/amolinari/terna-magazine/redirects:/redirects.json",
+    "/content/amolinari/terna-magazine/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/amolinari/terna-magazine/",
+    "/content/dam/amolinari/terna-magazine/"
   ]
 }
